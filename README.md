@@ -11,8 +11,10 @@ The motivation behind the app is to support nutritional goals and provide an eas
 **MOSCOW**
 
 M - A functionality utilizing the camera to scan barcodes on food items and returning a list of ingredients and nutrients that can be stored
-    A functionality for typing in unwanted and target ingredients/nutrients
-    A dashboard presenting the state of the food intake objective
+    
+    A functionality for typing in unwanted and target ingredients/nutrients.
+    
+    A dashboard presenting the state of the food intake objective.
     
 S -   Notifications in case of lack of certain nutrients
 
